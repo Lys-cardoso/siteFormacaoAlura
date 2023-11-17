@@ -4,4 +4,9 @@ color:white
 display: flex; 
 }justfy-content:space-arounde;
 align-items: center.
-padding:24px 0
+padding:24px 0;
+
+
+.cabecalho-lista-item{  
+    display:inline-block;
+    }
